@@ -1,0 +1,7 @@
+
+Enter number: 12344 5
+
+ Enter Number you want to search: 3
+
+ The Digit 3 found at place: 3
+
