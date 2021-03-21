@@ -26,13 +26,7 @@
 **Code 13.** Store multiplication tables (up to 10 iteration) into the array from "start" and "end" number and retrieve from array and display the required table.
 from this program.
 
-**Code 14.** Delete or remove a particular element from an array.
-
-**Code 15.** Implement insert and remove operationns into the array at required location.
-
 **Code 16.** Print is array 1 is subset of array 2.
-
-**Code 17.** Find the two non-repeating elements in an array of repeating elements.
 
 **Code 18.** Print the union and intersection of arrays.
 
