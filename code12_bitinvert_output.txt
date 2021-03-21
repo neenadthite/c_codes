@@ -1,0 +1,17 @@
+
+Enter the array count: 5
+Enter position 1 bit (either 0 or 1): 1
+Enter position 2 bit (either 0 or 1): 0
+Enter position 3 bit (either 0 or 1): 1
+Enter position 4 bit (either 0 or 1): 0
+Enter position 5 bit (either 0 or 1): 1
+
+Enter the position upto which you want to invert: 3
+
+Elements after inversion are: 
+Bit at position 0 is: 0
+Bit at position 1 is: 1
+Bit at position 2 is: 0
+Bit at position 3 is: 0
+Bit at position 4 is: 1
+

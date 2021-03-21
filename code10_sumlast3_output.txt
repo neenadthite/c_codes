@@ -1,0 +1,5 @@
+
+Enter number till which you want to print: 5
+
+1 3 4 8 15 
+

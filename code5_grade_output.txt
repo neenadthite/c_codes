@@ -1,0 +1,9 @@
+Enter marks of 3 subject:
+Subject1: 35
+
+Subject2: 70
+
+Subject3: 40
+
+Grade: C
+

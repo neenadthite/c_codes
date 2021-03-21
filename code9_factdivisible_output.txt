@@ -1,0 +1,9 @@
+
+Input: 4
+
+Output: 4
+
+Explanation:
+The required number is 4 whose factorial 24 is divisible by 4
+
+

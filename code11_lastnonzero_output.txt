@@ -1,0 +1,5 @@
+
+Enter number:7
+
+Last non zero number in factorial 5040 is 4
+

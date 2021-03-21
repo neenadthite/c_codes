@@ -1,0 +1,7 @@
+
+Enter the Start number: 1
+
+Enter End number: 15
+
+Product of prime numbers between 1 to 15 is: 2*3*5*7*11*13 = 30030
+

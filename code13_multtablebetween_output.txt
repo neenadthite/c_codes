@@ -1,0 +1,8 @@
+
+Enter start and end number for tables: 5 15
+
+Multiplication Tables from 5 to 15 stored in array.
+Enter no. to print table (positive only or 0 to exit): 8
+
+Table is as follows: 8 16 24 32 40 48 56 64 72 80 
+

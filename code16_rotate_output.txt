@@ -1,0 +1,17 @@
+
+Enter no. of elements in array: 5
+
+Enter element 1: 1
+
+Enter element 2: 2
+
+Enter element 3: 3
+
+Enter element 4: 4
+
+Enter element 5: 5
+
+Enter shift value: 3
+
+Rotated array is: 3	4	5	1	2	
+

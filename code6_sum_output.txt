@@ -1,0 +1,5 @@
+
+Enter the number:456
+
+Sum=15
+

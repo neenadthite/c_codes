@@ -1,0 +1,4 @@
+Enter character: u
+
+Vowel
+

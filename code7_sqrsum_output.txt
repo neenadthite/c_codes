@@ -1,0 +1,4 @@
+
+Enter the number: 5
+Sum, Squares upto number 5 is: 15 55
+

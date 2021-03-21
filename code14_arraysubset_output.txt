@@ -1,0 +1,15 @@
+
+Enter count for 1st array: 5
+Enter element 1: 1
+Enter element 2: 2
+Enter element 3: 3
+Enter element 4: 4
+Enter element 5: 5
+
+Enter count for 2nd array: 3
+Enter element 1: 2
+Enter element 2: 3
+Enter element 3: 4
+
+Array2 is sub-set of Array1
+
