@@ -26,8 +26,8 @@
 **Code 13.** Store multiplication tables (up to 10 iteration) into the array from "start" and "end" number and retrieve from array and display the required table.
 from this program.
 
-**Code 16.** Print is array 1 is subset of array 2.
+**Code 14.** Print is array 1 is subset of array 2.
 
-**Code 18.** Print the union and intersection of arrays.
+**Code 15.** Print the union and intersection of arrays.
 
-**Code 19.** Function to shift elements of array.
+**Code 16.** Function to shift elements of array.
