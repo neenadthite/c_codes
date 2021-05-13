@@ -1,0 +1,13 @@
+Enter value of n:55
+
+Value written successfully in data.txt
+Process returned 0 (0x0)   execution time : 2.084 s
+Press any key to continue.
+
+
+
+
+
+
+
+
