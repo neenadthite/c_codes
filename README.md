@@ -31,3 +31,7 @@ from this program.
 **Code 15.** Print the union and intersection of arrays.
 
 **Code 16.** Function to shift elements of array.
+
+**Code 17.** Write data to text file.
+
+**Code 18.** Read data from text file.
