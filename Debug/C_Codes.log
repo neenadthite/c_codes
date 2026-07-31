@@ -1,0 +1,3 @@
+﻿  code_printing_pattern_using_loops.c
+C:\VS_Project\C_Codes\code_printing_pattern_using_loops.c(7,14): warning C4101: 'data': unreferenced local variable
+  C_Codes.vcxproj -> C:\VS_Project\C_Codes\Debug\C_Codes.exe
