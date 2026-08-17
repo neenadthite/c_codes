@@ -1,22 +1,16 @@
 #include <iostream>
 #include <vector>
+#include <algorithm>
+
 using namespace std;
 
 class Solution {
 public:
 	int majorityElement(vector<int>& nums) {
-		int majElement=0, maxOcc=0;
-		for (int i = 0; i < nums.size(); i++){
-			int currentElement = nums[i];
-			int currentOcc = 0;
-			for (int j = 0; j < nums.size(); j++) {
-				if (currentElement == nums[j])
-					currentOcc++;
-			}
-			if (maxOcc < currentOcc)
-				majElement = currentElement;
-		}
-		return majElement;
+		sort(nums.begin(), nums.end());
+		int n = nums.size();
+
+		return nums[n/2];
 	}
 };
 
